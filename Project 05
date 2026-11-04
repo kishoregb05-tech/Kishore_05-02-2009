@@ -16,7 +16,7 @@ void main()
         return;
     }
 
-    fprintf(fp, "C Programming class was very interesting and useful.C programming makes me to think more logical.");
+    fprintf(fp, "C Programming class was very interesting and useful too.C programming makes me to think more logical.");
     fclose(fp);
 
     printf("Data written successfully\n");
